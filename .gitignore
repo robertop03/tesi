@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.pdf  # Se non vuoi tracciare i PDF compilati
